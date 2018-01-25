@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	background-color: #10968d;
+	color: #FFF;
+}
+
+.topo{
+	width: 100%;
+	height: 200px;
+	background-color: #ca5290;
+}
+
+.menu{
+	width: 100%;
+	height: 50px;
+	background-color: #644870;
+}
+
+.footer{
+	width: 100%;
+	height: 300px;
+	background-color: #87123c;
+}
+
+/*
+
+2b757e - verde azulado escuro
+10968d - verde azulado claro
+644870 - Purpura
+87123c - Vinho
+ca5290 - rosa
+
+*/
